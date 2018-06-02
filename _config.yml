@@ -3,14 +3,15 @@
 menu:
   主页: /
   随笔: /tags/随笔/
+  留言板: /about
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
-  #qq: "#"
+  github: "https://github.com/noodle-xia"
+  weibo: "http://weibo.com/3177313853"
+  #rss: "#"
+  zhihu: "https://www.zhihu.com/people/xia-noodle/"
+  qq: "http://qm.qq.com/cgi-bin/qm/qr?k=0lo72y6oAQscZ0wbXug3my1gbL6n4qYi"
   #weixin: "#"
   #jianshu: "#"
   #douban: "#"
@@ -20,7 +21,7 @@ subnav:
   #mail: "mailto:litten225@qq.com"
   #facebook: "#"
   #google: "#"
-  #twitter: "#"
+  twitter: "https://twitter.com/NoodleXia"
   #linkedin: "#"
 
 rss: /atom.xml
@@ -45,7 +46,7 @@ open_in_new: false
 # 打赏type设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
 reward_type: 2
 # 打赏wording
-reward_wording: '谢谢你请我吃糖果'
+reward_wording: '不用打赏 常来看看就好'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
 alipay: 
 # 微信二维码图片地址
@@ -65,10 +66,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: /favicon.png
+favicon: "http://ww2.sinaimg.cn/small/bd61f63dtw1edqgmiinmaj208m08m75r.jpg"
 
 #你的头像url
-avatar:
+avatar: "http://ww2.sinaimg.cn/small/bd61f63dtw1edqgmiinmaj208m08m75r.jpg"
 
 #是否开启分享
 share_jia: true
@@ -91,16 +92,16 @@ changyan_conf: false
 disqus: false
 
 #5、Gitment
-gitment_owner: false      #你的 GitHub ID
-gitment_repo: ''          #存储评论的 repo
+gitment_owner: noodle-xia      #你的 GitHub ID
+gitment_repo: 'comment'          #存储评论的 repo
 gitment_oauth:
-  client_id: ''           #client ID
-  client_secret: ''       #client secret
+  client_id: '784a25328500074f8cc4'           #client ID
+  client_secret: 'ca13508d5034ae7ec562a953cfaa5682565ae151'       #client secret
 
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
   # 头像上面的背景颜色
-  header: '#4d4d4d'
+  header: '#2F4F4F'
   # 右滑板块背景
   slider: 'linear-gradient(200deg,#a0cfe4,#e8c37e)'
 
@@ -120,11 +121,15 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  友情链接1: http://localhost:4000/
-  友情链接2: http://localhost:4000/
-  友情链接3: http://localhost:4000/
-  友情链接4: http://localhost:4000/
-  友情链接5: http://localhost:4000/
-  友情链接6: http://localhost:4000/
+  前端网: http://www.qdfuns.com/house
+  不二侬·主页: http://buer.website
+  5秒资源网: http://www.5mzy.com/
+  steam-世界最大游戏社交对战平台: https://store.steampowered.com/
+  果壳网-可能是松鼠要剥的那颗: https://www.guokr.com/
+  创意工作者的社区: https://www.v2ex.com/
+  游民星空 -大型单机游戏媒体: http://www.gamersky.com/
+  今日头条 -最新的全球资讯: https://www.toutiao.com/
+  知乎-发现更大的世界: https://www.zhihu.com/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+
+aboutme: 做人如果太帅<br>那和我又有什么区别呢<br>幽幽地，不明说；默默地，不多说...<br>专注于前端的小面条儿~~<br>   by ：noodle-xia
